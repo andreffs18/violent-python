@@ -1,1 +1,7 @@
+html5lib==1.0.1
+mechanize==0.3.6
+pygeoip==0.3.2
+pyPdf==1.13
 python-nmap==0.6.1
+six==1.11.0
+webencodings==0.5.1
