@@ -102,3 +102,6 @@ ENV/
 
 # Custom
 .DS_Store
+
+.idea/
+aux/
