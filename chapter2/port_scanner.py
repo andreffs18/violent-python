@@ -50,9 +50,6 @@ def port_scan(host, ports, threading=False):
             connection_scan(host, port)
 
 
-
-
-
 if __name__ == "__main__":
     parser = OptionParser('usage %prog -H <target host> -p <target_port(s)>')
     parser.add_option('-H', dest='target_host', type=str, help='Specify target host.')
