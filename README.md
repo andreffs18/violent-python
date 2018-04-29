@@ -6,7 +6,7 @@
   
 This repo contains exercices that I found interesting to explore from the book. I kept the book structure, altough some chapters tackle the same problems.
 
-> In case you are searching for the original book code snippets, you can find them [here](
+> In case you are searching for the original code snippets, you can find them [here](
 http://booksite.elsevier.com/9781597499576/chapters.php).
 
 
