@@ -13,12 +13,10 @@ http://booksite.elsevier.com/9781597499576/chapters.php).
  
 ### Chapter 1 and 2
 
-All about penetration testing and understaing network. Also, brute-force is fairly used.
-
-These first chapters contain scripts to:
+All about penetration testing and understanding networks. Also, brute-force is fairly used. These first two chapters contain scripts to:
 - Dictionary attacks
 - Brute force password hash comparisons 
-- Open an secure zip files.
+- Open secure zip files
 - Port scanner
 - SSH Botnet
 - FTP Attack
@@ -26,21 +24,21 @@ These first chapters contain scripts to:
 
 ### Chapter 3 and 4
 
-Geo-locating and extrack meta data from apps.
+Geo-locating people and extrack meta data from apps.
 
 - Geo-locate people using IPs and Images
-- Firefox scrapper to download databases of saved cookies, download list and past browser history.
-- Figure out where DDos attack came from from packets on the network.
+- Firefox scrapper to download databases of saved cookies, download files list and past browser history
+- Figure out where DDos attacks come from, from saved packets off the network
 
 ### Chapter 5
  
-Manipulating wiki packets
+Manipulating Wifi packets.
 - Wifi packet sniffer to find credit card number and google searches
 - 802.11 protocol exploitation
 
 ### Chapter 6 and 7 
 
-About Web Crawlers, using Google and Twitter api and Antivirus evasion that I did not find that interesting, so nothing was added about that.
+About Web Crawlers; Using Google and Twitter API and Antivirus evasion that I did not find that interesting, so nothing was added about that.
 
 
 
@@ -53,6 +51,12 @@ $ mkvirtualenv violent-python
 $ pip install -r requirements.txt
 ```
 
+> If you don't have `mkvirtualenv` installed, you can find it here: [Install **mkvirtualenv**](http://virtualenvwrapper.readthedocs.io/en/latest/index.html?highlight=install#introduction)
+
+
 ## License
+All code here is under the MIT license.
 
 ## Disclaimer 
+
+All code in this repo is for educational purpuses only. Some of these tools may be illegal to use on machines that you do not own or have no authorization to interact with. Use this programs at your own risk. 
