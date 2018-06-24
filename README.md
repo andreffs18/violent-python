@@ -4,7 +4,7 @@
 
 ["Violent Python" by TJ O'Connor](https://www.amazon.ca/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
   
-This repo contains exercices that I found interesting to explore from the book. I kept the book structure, altough some chapters tackle the same problems.
+This repo contains exercises that I found interesting to explore from the book. I kept the book structure, although some chapters tackle the same problems.
 
 > In case you are searching for the original code snippets, you can find them [here](
 http://booksite.elsevier.com/9781597499576/chapters.php).
